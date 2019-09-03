@@ -1,0 +1,9 @@
+D:\Seminars-Scoala Informala\Conference\Conference.Domain\bin\Debug\netstandard2.0\Conference.Domain.deps.json
+D:\Seminars-Scoala Informala\Conference\Conference.Domain\bin\Debug\netstandard2.0\Conference.Domain.dll
+D:\Seminars-Scoala Informala\Conference\Conference.Domain\bin\Debug\netstandard2.0\Conference.Domain.pdb
+D:\Seminars-Scoala Informala\Conference\Conference.Domain\obj\Debug\netstandard2.0\Conference.Domain.csprojAssemblyReference.cache
+D:\Seminars-Scoala Informala\Conference\Conference.Domain\obj\Debug\netstandard2.0\Conference.Domain.csproj.CoreCompileInputs.cache
+D:\Seminars-Scoala Informala\Conference\Conference.Domain\obj\Debug\netstandard2.0\Conference.Domain.AssemblyInfoInputs.cache
+D:\Seminars-Scoala Informala\Conference\Conference.Domain\obj\Debug\netstandard2.0\Conference.Domain.AssemblyInfo.cs
+D:\Seminars-Scoala Informala\Conference\Conference.Domain\obj\Debug\netstandard2.0\Conference.Domain.dll
+D:\Seminars-Scoala Informala\Conference\Conference.Domain\obj\Debug\netstandard2.0\Conference.Domain.pdb
